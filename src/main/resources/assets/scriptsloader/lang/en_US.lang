@@ -1,0 +1,6 @@
+scriptsloader:added=Scripts from "%s" folder successfully included
+scriptsloader:removed=Scripts from "%s" folder successfully excluded
+scriptsloader:nofolder=Folder "%s" not found!
+scriptsloader:noarguments=Not enough arguments!
+scriptsloader:mute=Messages disabled!
+scriptsloader:unmute=Messages enabled!
